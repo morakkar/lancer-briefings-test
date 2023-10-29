@@ -142,7 +142,7 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
+        "planet": "Sparr",
         "year": "5014u",
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
