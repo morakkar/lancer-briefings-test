@@ -101,12 +101,12 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
+          "callsign": "Pangolin",
+          "alias": "Angel Harwal",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Type - Worst Beat"
+          "mech": "Io"
         },
         {
           "callsign": "Kal",
@@ -130,7 +130,7 @@ export default {
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Io"
+          "mech": "Mayfly"
         },
         {
           "callsign": "Compadre",
