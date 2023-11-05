@@ -147,10 +147,10 @@ export default {
         "system": "Ardennes-3",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "headerTitle": "WHAT THE FUCK",
+        "headerSubtitle": "IS YALLS TEAM NAME",
+        "subheaderTitle": "RSS THALIANA",
+        "subheaderSubtitle": "ALL THRUST, ZERO FUCKS",
       },
       "options":{
         "eventsMarkdownPerMission": true
