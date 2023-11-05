@@ -1,5 +1,1 @@
-This is a placeholder area where we'd put information about Pangolin.
-
-## Trivia
-
-* There is nothing here yet.
+"You guys needed a mechanic. No one in the Long Rim is gonna do that crap for free, but for me, I just wanted one thing: for you guys to get me the hell off the *Courtesan*. So now I'm here, trying to figure out why the damn manifolds squeak every time we dock and doing what I can to keep the pieces and parts moving and/or not moving, depending on the context." 
