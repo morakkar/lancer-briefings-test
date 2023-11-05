@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "Death-On-The-Glacier",
           "status": "start"
         },
       ],
